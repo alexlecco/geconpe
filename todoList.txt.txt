@@ -1,0 +1,3 @@
+- En la seccion servicios, colocar la descripci�n larga del servicio
+
+-solucionar la version mobile
